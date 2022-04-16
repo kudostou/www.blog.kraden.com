@@ -1,2 +1,2 @@
-# www.blog.kraden.com
+# www.blog.kraden.com    takeover
 ## subdomain takeover 
